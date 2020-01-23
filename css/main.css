@@ -1,0 +1,20 @@
+.item-list {
+  cursor: pointer;
+}
+
+.item-list:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
+.item-to-do {
+  cursor: pointer;
+}
+
+.item-to-do.ok {
+  color: green;
+}
+
+.item-to-do:hover {
+  color: yellowgreen;
+}
